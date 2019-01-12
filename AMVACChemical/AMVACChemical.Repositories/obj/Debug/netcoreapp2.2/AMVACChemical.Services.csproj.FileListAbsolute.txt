@@ -1,0 +1,16 @@
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.Services.deps.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.Services.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.Services.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.csprojAssemblyReference.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.ServiceResource.ServiceResource.resources
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.csproj.GenerateResource.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.csproj.CoreCompileInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.AssemblyInfoInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.AssemblyInfo.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.csproj.CopyComplete
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.Repositories\obj\Debug\netcoreapp2.2\AMVACChemical.Services.pdb

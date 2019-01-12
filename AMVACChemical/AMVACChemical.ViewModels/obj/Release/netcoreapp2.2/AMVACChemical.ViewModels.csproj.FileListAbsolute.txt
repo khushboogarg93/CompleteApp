@@ -1,0 +1,11 @@
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\bin\Release\netcoreapp2.2\AMVACChemical.ViewModels.deps.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\bin\Release\netcoreapp2.2\AMVACChemical.ViewModels.runtimeconfig.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\bin\Release\netcoreapp2.2\AMVACChemical.ViewModels.runtimeconfig.dev.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\bin\Release\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\bin\Release\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.csprojAssemblyReference.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.csproj.CoreCompileInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.AssemblyInfoInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.AssemblyInfo.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical.ViewModels\obj\Release\netcoreapp2.2\AMVACChemical.ViewModels.pdb

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TrackAbout\RequestParam\Assets.cs" />
+    <Compile Remove="TrackAbout\RequestParam\Assets\SaveAssetsDetailsVM.cs" />
+    <Compile Remove="TrackAbout\RequestParam\Assets\SaveAssetsVM.cs" />
+    <Compile Remove="TrackAbout\RequestParam\Customer.cs" />
+    <Compile Remove="TrackAbout\RequestParam\DeliveriesVM.cs" />
+    <Compile Remove="TrackAbout\RequestParam\OriginLocation.cs" />
+    <Compile Remove="TrackAbout\RequestParam\ProductCode.cs" />
+    <Compile Remove="TrackAbout\RequestParam\Tag.cs" />
+    <Compile Remove="TrackAbout\RequestParam\Tagged.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

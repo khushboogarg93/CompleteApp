@@ -1,0 +1,13 @@
+﻿{
+  // Local database db connection string
+  "ConnectionStrings": {
+    "LocalContextConnection": "Server=CHETUIWK1924;Database=AMVACChemical;User ID=sa; Password=Chetu@123"
+  },
+
+  // setup for Trackabout api's credentials
+  "TrackAboutApi": {
+    "Username": "amvacwebservice",
+    "Password": "7uehzMF0R7bV",
+    "ApiKey": "a1bbc04f-39d2-4247-b097-5cc1f849fa0b"
+  }
+}

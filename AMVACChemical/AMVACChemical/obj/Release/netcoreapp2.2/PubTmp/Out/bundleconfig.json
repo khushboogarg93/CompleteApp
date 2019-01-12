@@ -1,0 +1,15 @@
+﻿[
+  // Test JS Bundles
+  {
+    "outputFileName": "wwwroot/js/test.add.min.js",
+    "inputFiles": [
+      "wwwroot/js/test.js",
+      "wwwroot/js/test.dataservice.js",
+      "wwwroot/jquery-2.2.4.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  }
+]

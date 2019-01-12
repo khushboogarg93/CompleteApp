@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AMVACChemical.Repositories.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AMVACChemical.Interfaces\AMVACChemical.Interfaces.csproj" />
+    <ProjectReference Include="..\AMVACChemical.ViewModels\AMVACChemical.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ServiceResource\ServiceResource.Designer.cs">
+      <DependentUpon>ServiceResource.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="ServiceResource\ServiceResource.resx">
+      <LastGenOutput>ServiceResource.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UtilityClass\" />
+  </ItemGroup>
+
+</Project>

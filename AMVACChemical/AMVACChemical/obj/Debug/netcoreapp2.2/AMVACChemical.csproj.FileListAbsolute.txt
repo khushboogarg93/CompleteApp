@@ -1,0 +1,135 @@
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.deps.json
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.json
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.dev.json
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Entities.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Entities.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csprojAssemblyReference.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Resources.TrackAboutResource.resources
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.GenerateResource.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CoreCompileInputs.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cs
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfoInputs.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfo.cs
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.input.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.output.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorCoreGenerate.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\TrackAbout\Index.g.cshtml.cs
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cache
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cs
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CopyComplete
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.deps.json
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.json
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.dev.json
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Entities.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Entities.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csprojAssemblyReference.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Resources.TrackAboutResource.resources
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.GenerateResource.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CoreCompileInputs.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cs
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfoInputs.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfo.cs
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.input.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.output.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorCoreGenerate.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\TrackAbout\Index.g.cshtml.cs
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cache
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cs
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CopyComplete
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.dll
+D:\Barkha Luthra\AMVAC Project\Project\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.deps.json
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.json
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.dev.json
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Repositories.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csprojAssemblyReference.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Resources.TrackAboutResource.resources
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.GenerateResource.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CoreCompileInputs.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfoInputs.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfo.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.input.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.output.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorCoreGenerate.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\TrackAbout\Index.g.cshtml.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cache
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cs
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CopyComplete
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical\Barkha\AMVACChemical\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.deps.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.runtimeconfig.dev.json
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Services.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Interfaces.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.Services.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\bin\Debug\netcoreapp2.2\AMVACChemical.ViewModels.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csprojAssemblyReference.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Resources.TrackAboutResource.resources
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.GenerateResource.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CoreCompileInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorAssemblyInfo.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfoInputs.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.AssemblyInfo.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.input.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.TagHelpers.output.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorCoreGenerate.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ViewImports.g.cshtml.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ViewStart.g.cshtml.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\Razor\Views\TrackAbout\Index.g.cshtml.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cache
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.RazorTargetAssemblyInfo.cs
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.Views.pdb
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.csproj.CopyComplete
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.dll
+E:\AMVACChemical-FBAG_TFS\AMVACChemical-FBAG\Application\AMVACChemical\AMVACChemical\obj\Debug\netcoreapp2.2\AMVACChemical.pdb
